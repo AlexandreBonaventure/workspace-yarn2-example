@@ -1,0 +1,22 @@
+{
+  "name": "workspace-yarn-berry",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "resolutions": {
+    "@vue/eslint-config-typescript": "file:./eslint-config-typescript"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/parser": "^2.18.0",
+    "@yarnpkg/pnpify": "^2.0.0-rc.18",
+    "eslint": "^6.7.2",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "eslint-plugin-vue": "^6.1.2",
+    "typescript": "~3.7.5"
+  }
+}
