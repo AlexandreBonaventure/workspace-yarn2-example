@@ -10,3 +10,8 @@
 ## On-going fixes
 - [] eslint-config-typescript: https://github.com/vuejs/eslint-config-typescript/pull/8
 - ... WIP
+
+References: 
+- https://github.com/vuejs/vue-cli/issues/5135
+- https://github.com/yarnpkg/berry/issues/750
+- .... many others to come
