@@ -10,6 +10,7 @@
 ## On-going fixes
 - [x] https://github.com/vuejs/vue-loader/issues/1639
 - [ ] vue-router typing patch: https://github.com/vuejs/vue-router/issues/3120
+- [ ] vuex typing patch: https://github.com/vuejs/vuex/issues/1681
 - [ ] eslint-config-typescript: https://github.com/vuejs/eslint-config-typescript/pull/8
 WIP...
 
