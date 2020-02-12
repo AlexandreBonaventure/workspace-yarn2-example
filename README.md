@@ -8,7 +8,8 @@
 5. Watch this beauty come alive!
 
 ## On-going fixes
-- [] eslint-config-typescript: https://github.com/vuejs/eslint-config-typescript/pull/8
+- [x] https://github.com/vuejs/vue-loader/issues/1639
+- [ ] eslint-config-typescript: https://github.com/vuejs/eslint-config-typescript/pull/8
 - ... WIP
 
 References: 

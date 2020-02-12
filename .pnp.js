@@ -2062,7 +2062,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["terser-webpack-plugin", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:2.3.4"],
             ["thread-loader", "virtual:64fcbc931b3c6fdf213e6847882673487450504d12406204f97a9b75db789f1ef1ba75526251bea454c45288a6da6a26f5c1c8c373cb47e7a411fc3a5de2f7a7#npm:2.1.3"],
             ["url-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:2.3.0"],
-            ["vue-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.8.3"],
+            ["vue-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.9.0"],
             ["vue-style-loader", "npm:4.1.2"],
             ["vue-template-compiler", "npm:2.6.11"],
             ["webpack", "npm:4.41.5"],
@@ -13011,10 +13011,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["vue-loader", [
-        ["virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.8.3", {
-          "packageLocation": "./.yarn/$$virtual/vue-loader-virtual-436d0e29d9/0/cache/vue-loader-npm-15.8.3-6fc45a971f-1.zip/node_modules/vue-loader/",
+        ["virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.9.0", {
+          "packageLocation": "./.yarn/$$virtual/vue-loader-virtual-d1d4475e0a/0/cache/vue-loader-npm-15.9.0-dfd6801660-1.zip/node_modules/vue-loader/",
           "packageDependencies": [
-            ["vue-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.8.3"],
+            ["vue-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:15.9.0"],
             ["@vue/component-compiler-utils", "npm:3.1.1"],
             ["cache-loader", "virtual:64fcbc931b3c6fdf213e6847882673487450504d12406204f97a9b75db789f1ef1ba75526251bea454c45288a6da6a26f5c1c8c373cb47e7a411fc3a5de2f7a7#npm:4.1.0"],
             ["css-loader", "virtual:441e9d9cf3f3d9424b972eb95ae6370bb28559027aa8aeeaf8b4f33b49e6d6f88d1f819afab1c7305dcccffdff7bd9a3cd2a8ec19e00622ac3660f403c9c838a#npm:3.4.2"],
