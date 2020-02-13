@@ -1262,7 +1262,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@typescript-eslint/parser@npm:*, @typescript-eslint/parser@npm:^2.18.0":
+"@typescript-eslint/parser@npm:^2.18.0":
   version: 2.19.0
   resolution: "@typescript-eslint/parser@npm:2.19.0"
   dependencies:
@@ -1635,9 +1635,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vue/eslint-config-typescript@file:./eslint-config-typescript::locator=workspace-yarn-berry%40workspace%3A.":
+"@vue/eslint-config-typescript@AlexandreBonaventure/eslint-config-typescript":
   version: 5.0.1
-  resolution: "@vue/eslint-config-typescript@file:./eslint-config-typescript::locator=workspace-yarn-berry%40workspace%3A."
+  resolution: "@vue/eslint-config-typescript@AlexandreBonaventure/eslint-config-typescript#commit:3ee37c9d84f850a3e008e3fc302f61e8891d9a13"
   dependencies:
     vue-eslint-parser: ^7.0.0
   peerDependencies:
@@ -1645,7 +1645,7 @@ __metadata:
     "@typescript-eslint/parser": ^2.7.0
     eslint: ^5.0.0 || ^6.0.0
     eslint-plugin-vue: ^5.2.3 || ^6.0.0
-  checksum: 4dc41e01a4dec08d32d3e27f7e6c0fd7945807e2c2ea46296f39e7139b80c28694730f153b2260ed42530e9e0c5fa9f4df098f16af183e13b221eaf77ec2f0bc
+  checksum: 74ab94ce66e2234668e264b54e25f6b731581e89c4ed725cfe4305e84f0c52b300d30cb02c5863439f80aff8ef181c545e0d351981f50c357c0964ee2c135faf
   languageName: node
   linkType: hard
 
